@@ -21,7 +21,6 @@ I’m a recent graduate from the University of Moratuwa with a BSc. Hons in Info
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 
 **Frameworks & Tools**  
