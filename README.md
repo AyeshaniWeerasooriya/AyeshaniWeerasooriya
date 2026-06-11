@@ -38,7 +38,7 @@ I’m a recent graduate from the University of Moratuwa with a BSc. Hons in Info
 
 ---
 
-### 🧠 Projects I'm Proud Of
+### 🧠 Projects
 
 - **🏏 FIT Sixes Mobile App** – A sports event app for live scores and updates  
 - **🍲 FoodMania** – A complete restaurant automation app using Flutter & Firebase  
