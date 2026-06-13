@@ -50,7 +50,7 @@ I’m a recent graduate from the University of Moratuwa with a BSc. Hons in Info
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaniWeerasooriya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaniWeerasooriya&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaniWeerasooriya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
